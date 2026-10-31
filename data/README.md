@@ -7,7 +7,7 @@
 * **تاریخ دریافت:**۱۰ آبان ۱۴۰۵ (نوامبر ۲۰۲۶)
 
 ## فایل‌های مورد نیاز (فرمت `.XPT`)
-برای اجرای کدهای پروژه، ۸ فایل زیر باید از بخش‌های Demographics، Examination و Laboratory دانلود و در پوشه `data/` قرار داده شوند:
+برای اجرای کدهای پروژه، ۸ فایل زیر باید از بخش‌های Demographics، Examination و Laboratory دانلود و در پوشه `/data` قرار داده شوند:
 1. `DEMO_L.XPT`: اطلاعات جمعیت‌شناختی و وزن‌های نمونه‌گیری (`SEQN`, `RIDAGEYR`, `RIAGENDR`, `WTMEC2YR`)
 2. `LUX_L.XPT`: معاینات الاستوگرافی گذرای کبد (`LUXSMED`, `LUXCAPM`)
 3. `CBC_L.XPT`: شمارش کامل سلول‌های خونی (`LBDNENO`, `LBDLYMNO`)
