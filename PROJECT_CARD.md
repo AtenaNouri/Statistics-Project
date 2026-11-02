@@ -10,7 +10,7 @@
   * `CBC_L`: شمارش کامل سلول‌های خونی (`LBDNENO`, `LBDLYMNO`)
   * `BMX_L`: اندازه‌گیری‌های تن‌سنجی (`BMXBMI`)
   * `BPXO_L`: اندازه‌گیری فشار خون نوسانی (`BPXOSY1`)
-  * **فایل‌های آزمایشگاهی متابولیک و بیوشیمی:** `GHB_L` (`LBXGH`)، `TCHOL_L` (`LBXTC`) و `BIOPRO_L` (`LBXSATSI`, `LBXSASSI`)
+  * فایل‌های آزمایشگاهی متابولیک و بیوشیمی: `GHB_L` (`LBXGH`)، `TCHOL_L` (`LBXTC`) و `BIOPRO_L` (`LBXSATSI`, `LBXSASSI`)
 
 ---
 
