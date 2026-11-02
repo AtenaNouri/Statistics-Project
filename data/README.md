@@ -4,6 +4,7 @@
  **منبع رسمی داده:** پیمایش ملی بررسی سلامت و تغذیه آمریکا (National Health and Nutrition Examination Survey - NHANES) یک پیمایش بزرگ سلامت جمعیت است که توسط CDC / NCHS اجرا و منتشر می‌شود (دوره اوت ۲۰۲۱ تا اوت ۲۰۲۳).
 
  **آدرس دریافت فایل‌ها:** https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023
+ 
  **تاریخ دریافت:** ۱۰ آبان ۱۴۰۵ (نوامبر ۲۰۲۶)
 
 ## فایل‌های مورد نیاز (فرمت `XPT.`)
